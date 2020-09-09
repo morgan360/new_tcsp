@@ -2,7 +2,7 @@
 /*
  *
  * Main Functions File
- *
+ * Wednesday 9 September 2020 at 10:49:29
  */
 
 add_action('wp_enqueue_scripts', 'enqueue_parent_styles');
